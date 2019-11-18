@@ -37,6 +37,11 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array list_preference_entries
+array list_preference_entry_values
+array multi_select_list_preference_default_value
+array pref_market_titles
+array pref_market_values
 array reply_entries
 array reply_values
 attr actionBarDivider
@@ -1597,6 +1602,9 @@ string path_password_eye_mask_visible
 string path_password_strike_through
 string phone_label_string
 string pick_up
+string pref_header_account
+string pref_title_account
+string pref_title_account_settings
 string preference_copied
 string reply_title
 string same_day_messenger_service
@@ -2238,4 +2246,4 @@ styleable ViewBackgroundHelper android_background backgroundTint backgroundTintM
 styleable ViewStubCompat android_id android_layout android_inflatedId
 xml header_preferences
 xml messages_preferences
-xml sync_preferences
+xml pref_account

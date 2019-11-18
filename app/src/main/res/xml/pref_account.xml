@@ -14,7 +14,7 @@
   ~ limitations under the License.
   -->
 
-<androidx.preference.PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <SwitchPreferenceCompat
         app:key="sync"
@@ -28,12 +28,12 @@
         app:title="@string/attachment_title" />
 
     <ListPreference
-        android:defaultValue="US"
-        android:entries="@array/pref_market_titles"
-        android:entryValues="@array/pref_market_values"
-        android:key="sync_frequency"
-        android:negativeButtonText="@null"
-        android:positiveButtonText="@null"
-        android:title="@string/pref_title_account" />
+        app:defaultValue="US"
+        app:entries="@array/pref_market_titles"
+        app:entryValues="@array/pref_market_values"
+        app:key="sync_frequency"
+        app:negativeButtonText="@null"
+        app:positiveButtonText="@null"
+        app:title="@string/pref_title_account" />
 
-</androidx.preference.PreferenceScreen>
+</PreferenceScreen>

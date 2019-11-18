@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\cstuser\\Desktop\\DroidCafeWithSettings\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
+            "outputFile": "C:\\Users\\cstuser\\AndroidStudioProjects\\droidcafewithsettings\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-az\\values-az.xml",
             "map": [
                 {
                     "source": "C:\\Users\\cstuser\\.gradle\\caches\\transforms-2\\files-2.1\\1db56ebdf9c1b1ce512557a8675992ae\\res\\values-az\\values-az.xml",

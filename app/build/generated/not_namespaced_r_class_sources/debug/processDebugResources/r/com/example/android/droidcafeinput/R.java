@@ -51,8 +51,13 @@ public final class R {
     public static final int mtrl_fab_transformation_sheet_expand_spec=0x7f020009;
   }
   public static final class array {
-    public static final int reply_entries=0x7f030000;
-    public static final int reply_values=0x7f030001;
+    public static final int list_preference_entries=0x7f030000;
+    public static final int list_preference_entry_values=0x7f030001;
+    public static final int multi_select_list_preference_default_value=0x7f030002;
+    public static final int pref_market_titles=0x7f030003;
+    public static final int pref_market_values=0x7f030004;
+    public static final int reply_entries=0x7f030005;
+    public static final int reply_values=0x7f030006;
   }
   public static final class attr {
     /**
@@ -6195,19 +6200,22 @@ public final class R {
     public static final int path_password_strike_through=0x7f0f004a;
     public static final int phone_label_string=0x7f0f004b;
     public static final int pick_up=0x7f0f004c;
-    public static final int preference_copied=0x7f0f004d;
-    public static final int reply_title=0x7f0f004e;
-    public static final int same_day_messenger_service=0x7f0f004f;
-    public static final int search_menu_title=0x7f0f0050;
-    public static final int signature_title=0x7f0f0051;
-    public static final int status_bar_notification_info_overflow=0x7f0f0052;
-    public static final int summary_collapsed_preference_list=0x7f0f0053;
-    public static final int sync_header=0x7f0f0054;
-    public static final int sync_title=0x7f0f0055;
-    public static final int title_activity_order=0x7f0f0056;
-    public static final int title_activity_settings=0x7f0f0057;
-    public static final int v7_preference_off=0x7f0f0058;
-    public static final int v7_preference_on=0x7f0f0059;
+    public static final int pref_header_account=0x7f0f004d;
+    public static final int pref_title_account=0x7f0f004e;
+    public static final int pref_title_account_settings=0x7f0f004f;
+    public static final int preference_copied=0x7f0f0050;
+    public static final int reply_title=0x7f0f0051;
+    public static final int same_day_messenger_service=0x7f0f0052;
+    public static final int search_menu_title=0x7f0f0053;
+    public static final int signature_title=0x7f0f0054;
+    public static final int status_bar_notification_info_overflow=0x7f0f0055;
+    public static final int summary_collapsed_preference_list=0x7f0f0056;
+    public static final int sync_header=0x7f0f0057;
+    public static final int sync_title=0x7f0f0058;
+    public static final int title_activity_order=0x7f0f0059;
+    public static final int title_activity_settings=0x7f0f005a;
+    public static final int v7_preference_off=0x7f0f005b;
+    public static final int v7_preference_on=0x7f0f005c;
   }
   public static final class style {
     public static final int AlertDialog_AppCompat=0x7f100000;
@@ -23158,6 +23166,6 @@ public final class R {
   public static final class xml {
     public static final int header_preferences=0x7f120000;
     public static final int messages_preferences=0x7f120001;
-    public static final int sync_preferences=0x7f120002;
+    public static final int pref_account=0x7f120002;
   }
 }

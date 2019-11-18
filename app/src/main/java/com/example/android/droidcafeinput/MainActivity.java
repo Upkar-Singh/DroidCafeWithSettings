@@ -17,10 +17,13 @@
 package com.example.android.droidcafeinput;
 
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.widget.Toolbar;
+
+import android.preference.PreferenceManager;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -67,6 +70,18 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(intent);
             }
         });
+        PreferenceManager.setDefaultValues(this,
+                R.xml.header_preferences, false);
+        PreferenceManager.setDefaultValues(this,
+                R.xml.messages_preferences, false);
+        PreferenceManager.setDefaultValues(this,
+                R.xml.pref_account, false);
+
+        SharedPreferences sharedPref = PreferenceManager
+                .getDefaultSharedPreferences(this);
+        String marketPref = sharedPref
+                .getString("sync_frequency", "-1");
+        displayToast(marketPref);
     }
 
     /**

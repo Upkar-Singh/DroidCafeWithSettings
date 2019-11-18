@@ -1010,12 +1010,12 @@ public final class R {
         public static final int copy = 0x7f0f002f;
         public static final int expand_button_title = 0x7f0f0036;
         public static final int not_set = 0x7f0f0043;
-        public static final int preference_copied = 0x7f0f004d;
-        public static final int search_menu_title = 0x7f0f0050;
-        public static final int status_bar_notification_info_overflow = 0x7f0f0052;
-        public static final int summary_collapsed_preference_list = 0x7f0f0053;
-        public static final int v7_preference_off = 0x7f0f0058;
-        public static final int v7_preference_on = 0x7f0f0059;
+        public static final int preference_copied = 0x7f0f0050;
+        public static final int search_menu_title = 0x7f0f0053;
+        public static final int status_bar_notification_info_overflow = 0x7f0f0055;
+        public static final int summary_collapsed_preference_list = 0x7f0f0056;
+        public static final int v7_preference_off = 0x7f0f005b;
+        public static final int v7_preference_on = 0x7f0f005c;
     }
     public static final class style {
         private style() {}

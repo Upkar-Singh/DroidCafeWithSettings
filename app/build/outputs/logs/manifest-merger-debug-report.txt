@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-40:12
+ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:1-40:12
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\54e80c63afabce1fe6966dc6a0608c74\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.preference:preference:1.1.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\30028cde49f7991711c5d045283a6d66\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\554ebe6d47cdae060ecfd324c25565bc\AndroidManifest.xml:17:1-24:12
@@ -39,25 +39,25 @@ MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\cstuser\.gradle\cach
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\38a526f5c301aa761d483a2c26ecf185\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\d54e59f399530bf509eceaeae82cf376\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\9e6e1c7f9128b0b71e3c5083b6310852\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-40:12
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:1-40:12
 	package
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:3:5-49
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:1-40:12
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:5:5-38:19
+ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:5:5-38:19
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\54e80c63afabce1fe6966dc6a0608c74\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\54e80c63afabce1fe6966dc6a0608c74\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\bf47faa55f67a2e355c7dc8e1f646bd8\AndroidManifest.xml:9:5-20
@@ -69,61 +69,61 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\cs
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\1db56ebdf9c1b1ce512557a8675992ae\AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:10:9-35
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:10:9-35
 	android:label
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:8:9-41
 	android:roundIcon
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:9:9-54
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:9:9-54
 	android:icon
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:11:9-40
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.example.android.droidcafeinput.SettingsActivity
-ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:12:9-19:20
 	android:parentActivityName
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:15:13-55
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:15:13-55
 	android:label
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:14:13-60
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:14:13-60
 	android:name
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:13:13-45
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:13:13-45
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:16:13-18:83
+ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:16:13-18:83
 	android:value
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:18:17-80
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:18:17-80
 	android:name
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:17:17-63
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:17:17-63
 activity#com.example.android.droidcafeinput.MainActivity
-ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:20:9-29:20
+ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:20:9-29:20
 	android:label
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:22:13-45
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:22:13-45
 	android:theme
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:23:13-56
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:23:13-56
 	android:name
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:21:13-41
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:21:13-41
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:27:27-74
 activity#com.example.android.droidcafeinput.OrderActivity
-ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:30:9-37:20
+ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:30:9-37:20
 	android:parentActivityName
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:33:13-55
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:33:13-55
 	android:label
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:32:13-57
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:32:13-57
 	android:name
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml:31:13-42
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml:31:13-42
 uses-sdk
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\54e80c63afabce1fe6966dc6a0608c74\AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\54e80c63afabce1fe6966dc6a0608c74\AndroidManifest.xml:20:5-44
 MERGED from [androidx.preference:preference:1.1.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\30028cde49f7991711c5d045283a6d66\AndroidManifest.xml:20:5-22:41
@@ -194,13 +194,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cstuser\
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\d54e59f399530bf509eceaeae82cf376\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\9e6e1c7f9128b0b71e3c5083b6310852\AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\cstuser\.gradle\caches\transforms-2\files-2.1\9e6e1c7f9128b0b71e3c5083b6310852\AndroidManifest.xml:20:5-44
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\cstuser\Desktop\DroidCafeWithSettings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\cstuser\AndroidStudioProjects\droidcafewithsettings\app\src\main\AndroidManifest.xml
